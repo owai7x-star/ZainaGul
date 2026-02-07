@@ -14,9 +14,9 @@ canvas {
 #valentinesButton {
     display: none;
     position: absolute;
-    background-color: #FF0000;
-    border: 2px solid #FF4433;
-    color: #FF1493;
+    background-color: #FFF0EF;
+    border: 2px solid #CC3347;
+    color: #811407;
     cursor: pointer;
     height: 50px;
     font-size: 16px;
@@ -29,6 +29,6 @@ canvas {
   }
 
 #valentinesButton:hover {
-    background-color: #FF0000;
-    color: #FF4433;
+    background-color: #FFF0EF;
+    color: #811407;
 }
